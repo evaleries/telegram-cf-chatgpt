@@ -26,3 +26,4 @@ To deploy the bot, you required to have:
 6. Quick edit the worker, and copy bot.js to the Cloudflare code editor
 7. Edit the `TELEGRAM` and `OPENAI` config in te code.
 8. Register webhook and try the bot✨
+9. Add two commands to the bot via BotFather (/start to start the bot and /clear to reset the conversation)
